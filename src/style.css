@@ -1,0 +1,41 @@
+
+.container {
+  min-height: 100vh;
+}
+
+input::placeholder {
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+}
+
+i {
+  cursor: pointer;
+}
+
+label {
+  border: none;
+}
+
+.clear {
+  text-decoration: none;
+}
+
+.trash {
+  margin-left: 20px;
+}
+
+.clear:hover {
+  text-decoration: underline;
+  color: black !important;
+}
+
+.dots {
+  margin-left: auto !important;
+}
+
+.fa-solid {
+  color: gray;
+}
